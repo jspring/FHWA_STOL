@@ -1,0 +1,23 @@
+This is what we need:
+
+DD 
+MM 
+YYYY 
+HH:MM:SS 
+Message_number 
+Volume lane 1 
+Volume lane 2 
+Volume lane 3 
+Station_ID 
+Occupancy lane 1 
+Occupancy lane 2 
+Occupancy lane 3 
+Sidefired_speed lane 1 
+Sidefired_speed lane 2 
+Sidefired_speed lane 3 
+Speed_85% lane 1 
+Speed_85% lane 2 
+Speed_85% lane 3 
+Gap lane 1 
+Gap lane 2 
+Gap lane 3
