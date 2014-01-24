@@ -35,6 +35,9 @@ typedef struct {
         int second;
 } IS_PACKED rtms_msg_t;
 
+#define DB_RTMS_TYPE	5000
+#define DB_RTMS_VAR	DB_RTMS_TYPE
+
 /***********************************************************************
 ***********************************************************************/
 
